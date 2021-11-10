@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mojo</h1>
 <h3 align="center">A passionate frontend developer from Australia</h3>
 
-- 🔭 I’m currently working on [Video FPS overlay](https://github.com/BuyMyMojo/Video-FPS-overlay)
+- 🔭 I’m currently working on [buymymojo.studio](https://github.com/BuyMyMojo/buymymojo.studio)
 
 - 🌱 I’m currently learning **Python and Unreal Engine**
 
-- 👨‍💻 All of my projects are available at [buymymojo.net](buymymojo.net)
+- 👨‍💻 All of my projects are available here on github!
 
-- 📝 I write some articles on [buymymojo.net](buymymojo.net)
+- 📝 I write some stuff on [buymymojo.net](buymymojo.net)
 
 - 📫 How to reach me **hello@owenscode.org**
 
