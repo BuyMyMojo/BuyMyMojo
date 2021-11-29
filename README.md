@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mojo</h1>
 <h3 align="center">I'm really interested in Go and Rust</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=buymymojo&label=Profile%20views&color=0e75b6&style=flat" alt="buymymojo" /> </p>
-
 <p align="left"> <a href="https://twitter.com/owenquinlan7" target="blank"><img src="https://img.shields.io/twitter/follow/owenquinlan7?logo=twitter&style=for-the-badge" alt="owenquinlan7" /></a> </p>
 
 - 🔭 I’m currently working on [playerna.me](https://playerna.me/)
@@ -36,5 +34,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/BuyMyMojo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="BuyMyMojo" /></a></p><br><br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=buymymojo&show_icons=true&theme=dark&locale=en&layout=compact" alt="buymymojo" /></p>
