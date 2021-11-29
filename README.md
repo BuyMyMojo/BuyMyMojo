@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **hello@buymymojo.net**
 
-- ⚡ Fun fact [I'm making custom pool heating with my dad!](I'm making custom pool heating with my dad!)
+- ⚡ Fun fact I'm making custom pool heating with my dad!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
