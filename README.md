@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/owenquinlan7" target="blank"><img src="https://img.shields.io/twitter/follow/owenquinlan7?logo=twitter&style=for-the-badge" alt="owenquinlan7" /></a> </p>
 
-- 🔭 I’m currently working on [playerna.me](https://playerna.me/)
+- 🔭 I’m currently working on [Rusted Wumpus](https://github.com/BuyMyMojo/Rusted-Wumpus)
 
-- 🌱 I’m currently learning **Go, Rust and hugo**
+- 🌱 I’m currently learning **Go, Rust**
 
 - 👯 I’m looking to collaborate on **Nothing right now :3**
 
