@@ -5,12 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/owenquinlan7" target="blank"><img src="https://img.shields.io/twitter/follow/owenquinlan7?logo=twitter&style=for-the-badge" alt="owenquinlan7" /></a> </p>
 
-- 🔭 I’m currently working on [A FPS overlay tool like Digital Foundry](https://github.com/BuyMyMojo/Video-FPS-overlay)
-
-- 🌱 I’m currently learning **Golang and Rust**
-
-- 🤝 I’m looking for help with [The FPS tool, if anyone has any good skills on generating graphs on go please tell me!](https://github.com/BuyMyMojo/Video-FPS-overlay)
-
 - 👨‍💻 All of my projects are available at [https://github.com/BuyMyMojo](https://github.com/BuyMyMojo)
 
 - 📫 How to reach me **hello@buymymojo.net**
