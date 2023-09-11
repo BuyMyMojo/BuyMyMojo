@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **Unity and C#**
 
+- 🎮 I’m currently working on complete the [Unity 2D RPG: Complete Combat System](https://gitlab.com/BuyMyMojo/top-down-combat)
+
 - 👨‍💻 All of my projects are available at [https://gitlab.com/BuyMyMojo](https://gitlab.com/BuyMyMojo) and [https://github.com/BuyMyMojo](https://github.com/BuyMyMojo)
 
 - 📝 I rarely write articles on [https://buymymojo.net](https://buymymojo.net)
